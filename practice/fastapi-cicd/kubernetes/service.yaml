@@ -1,7 +1,9 @@
 apiVersion: apps/v1
 kind: Service
 metadata:
-  name:fastapi-service
+  name: fastapi-service
+  labels:
+    app: fastapi-app
 spec:
   type: LoadBalancer
   ports: 
