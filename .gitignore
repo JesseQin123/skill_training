@@ -1,0 +1,32 @@
+# macOS System Files
+.DS_Store
+
+# Python Compiled Files
+__pycache__/
+*.pyc
+
+# VS Code Workspace Settings
+.vscode/
+
+# Node Modules
+node_modules/
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment Variables
+.env
+.env.*
+
+# Local Run Logs
+*.log
+
+# Temporary Files
+*.swp
+*.tmp
+
+# Configuration Files
+config.yaml
+
+# Data Files
+data/
