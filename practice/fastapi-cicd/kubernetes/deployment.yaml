@@ -9,7 +9,7 @@ spec:
       app: fastapi-app
   template:
     metadata:
-      lables:
+      labels:
         app: fastapi-app
     spec:
       containers:

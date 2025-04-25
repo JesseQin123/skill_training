@@ -24,7 +24,3 @@ jobs:
 
       - name: Push Docker image to DockerHub
         run: docker push jesseqin/my-fastapi-app:latest
-          
-          
-        
-    
